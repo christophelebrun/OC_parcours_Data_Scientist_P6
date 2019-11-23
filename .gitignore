@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+consignes/
+data/
+functions/.ipynb_checkpoints/
+functions/__pycache__/
+config/
+plots/
+questions.txt

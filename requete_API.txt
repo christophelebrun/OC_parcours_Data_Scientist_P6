@@ -1,0 +1,7 @@
+http://webservices.amazon.com/onca/xml?
+Service=AWSECommerceService&
+AWSAccessKeyId=[AWS Access Key ID]&
+AssociateTag=[Associate ID]&  
+Operation=ItemSearch&
+Keywords=watches&
+SearchIndex=All
